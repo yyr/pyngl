@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: PyNGL
+Version: 1.4.0
+Summary: 2D visualization library
+Home-page: http://www.pyngl.ucar.edu/
+Author: Mary Haley
+Author-email: haley@ucar.edu
+License: PyNGL license, similar to University of Illinois/NCSA license
+Description: PyNGL is a Python language module designed for publication-quality visualization and analysis of scientific data. PyNGL stands for 'Python Interface to the NCL Graphics Libraries,' and it is pronounced 'pingle.'
+Platform: Unix
+Platform: Linux
+Platform: Windows (Cygwin)
+Platform: MacOSX
